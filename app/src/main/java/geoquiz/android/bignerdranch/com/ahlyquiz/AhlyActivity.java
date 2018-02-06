@@ -138,6 +138,7 @@ public class AhlyActivity extends AppCompatActivity {
         mPrevButton=  findViewById(R.id.prev_button);
       //  mCheatButton=findViewById(R.id.cheat_button);
         mQuestionTimerTextView=findViewById(R.id.question_timer_text_view);
+        //aaaa
     }
 
     private void updateMethod() {
